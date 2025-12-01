@@ -10,4 +10,4 @@ Se destacan los siguientes temas:\
 •	Entrenar, evaluar y comparar diferentes modelos de machine learning\
 •	Uso de refinamiento y técnicas de reducción para crear modelos que mejor capturen el poder predictivo de sus datos\
 •	Ejecución de modelos predictivos en paralelo usando múltiples procesadores para acelerar sus resultados\
-•	Despliegue de los modelos a sistemas de producción y sistemas embebidos\
+•	Despliegue de los modelos a sistemas de producción y sistemas embebidos
